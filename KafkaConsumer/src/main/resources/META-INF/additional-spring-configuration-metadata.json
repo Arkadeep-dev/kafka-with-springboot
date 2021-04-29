@@ -1,0 +1,17 @@
+{"properties": [
+  {
+    "name": "jasypt.encryptor.password",
+    "type": "java.lang.String",
+    "description": "A description for 'jasypt.encryptor.password'"
+  },
+  {
+    "name": "jasypt.encryptor.iv-generator-classname",
+    "type": "java.lang.String",
+    "description": "A description for 'jasypt.encryptor.iv-generator-classname'"
+  },
+  {
+    "name": "jasypt.encryptor.algorithm",
+    "type": "java.lang.String",
+    "description": "A description for 'jasypt.encryptor.algorithm'"
+  }
+]}
